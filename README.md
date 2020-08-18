@@ -27,7 +27,7 @@ Das Projekt ist eine Analyse von 3 Websiten die Versuchen die regionale Wirtscha
 Bei Fragen bitte kontaktieren Sie uns!
 
 flostaudacher - student@tsn.at<br>
-simegger - student@tsn.at<br>
+segger9 - student@tsn.at<br>
 HTL Anichstraße - htlinn@tsn.at
 
 <a href="https://htl-anichstrasse.tirol" target="_blank"><img src=".github/logo_background.png" width="180px"></a>
