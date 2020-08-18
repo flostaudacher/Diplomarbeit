@@ -9,7 +9,7 @@
   <h3 align="center">regionalitätsfördernde Websiten</h3>
 
   <p align="center">
-    Enter a short description for the project here
+    Das Projekt ist eine Analyse von 3 Websiten die Versuchen die regionale Wirtschaft zu fördern.
     <br/>
     <a href="https://github.com/htl-anichstrasse/template/releases">Releases</a>
     ·
@@ -20,7 +20,7 @@
 </p>
 
 ## About the project
-Das Projekt ist eine Analyse von 3 Websiten die Versuchen die regionale Wirtschaft zu fördern.
+Das Projekt ist eine Analyse von 3 Websiten die Versuchen die regionale Wirtschaft zu fördern. durch diese Analyse wird dann eine Umfrage erstellt um ein potentielles Interview mit den Seitenherstellern zu bekommen.
 
 ## Contact
 
