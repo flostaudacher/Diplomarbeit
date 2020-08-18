@@ -3,7 +3,7 @@
 <br/>
 <p align="center">
   <a href="https://htl-anichstrasse.tirol">
-    <img src=".github/HTL.png" alt="Logo" width="80" height="80">
+    <img src=".github/HTL_logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">regionalitätsfördernde Websiten</h3>
