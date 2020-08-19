@@ -22,6 +22,16 @@
 ## About the project
 Das Projekt ist eine Analyse von 3 Websiten die Versuchen die regionale Wirtschaft zu fördern. durch diese Analyse wird dann eine Umfrage erstellt um ein potentielles Interview mit den Seitenherstellern zu bekommen.
 
+Dazu führen wir zuerst eine Webanalyse durch. 
+
+Diese erfolgt auf zwei Weisen:
+  - anhand von 7 Kriterien werden die Websiten untersucht
+  - Usablity anhand 10 Heuristicen nach Jakob Nielsen untersuchen
+
+Zudem werden Daten aus diesen Tools herangezogen:
+  - pingdom
+  - websitegrader
+
 ## Contact
 
 Bei Fragen bitte kontaktieren Sie uns!
