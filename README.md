@@ -27,15 +27,24 @@ Dazu führen wir zuerst eine Webanalyse durch.
 Diese erfolgt auf zwei Weisen:
   - anhand von 7 Kriterien werden die Websiten untersucht:
       - Inhalt
-    2.Gestaltung: Wie sieht es aus?
-    3.Navigation: Wie findet man sich zurecht?
-    4.Performance: Wie schnell wird die Seite geladen?
-    5.Zugänglichkeit: Kann Ihr Browser die Seite darstellen?
-    6.Quelltext: Entspricht der Quelltext modernen Standards?
-    7.Interaktion: Wird die Möglichkeit zur Interaktion adäquat umgesetzt?
-
+      - Gestaltung
+      - Navigation
+      - Performance
+      - Zugänglichkeit
+      - Quelltext
+      - Interaktion
 Shöpping
   - Usablity anhand 10 Heuristicen nach Jakob Nielsen untersuchen:
+      - Sichtbarkeit des Systemstatus 
+      - Übereinstimmung von System und Wirklichkeit
+      - Nutzerkontrolle und Freiheit
+      - Beständigkeit und Standards
+      - Fehlervermeidung
+      - Wiedererkennung statt Erinnerung
+      - Flexibilität und Effizienz
+      - Ästhetisches und minimalistisches Design
+      - Hilfestellung beim Erkennen, Bewerten und Beheben von Fehlern
+      - Hilfe und Dokumentation
   
 
 Zudem werden Daten aus diesen Tools herangezogen:
