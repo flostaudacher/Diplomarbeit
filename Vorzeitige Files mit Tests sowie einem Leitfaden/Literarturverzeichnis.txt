@@ -1,0 +1,21 @@
+aktuelle Quellen:
+=================
+aktuell Verwendete Websiten:
+============================
+- https://www.kompetenzzentrum-usability.digital/kos/WNetz?art=File.download&id=787&name=Gestaltung.pdf
+- https://www.akademie.de/wissen/7-qualitaetskriterien-fuer-websites
+- https://www.nngroup.com/articles/ten-usability-heuristics/
+- https://meiert.com/de/publications/articles/20051218/
+- https://www.usabilityblog.de/usability-heuristiken-in-der-praxis-teil1-geben-sie-den-nutzern-feedback-und-zwar-schnell/
+
+Bücher:
+=======
+- Erfolg des Einfachen - Digital Studio Pro . Jakob Nielsen´s Web-Design (Deutsch) Taschenbuch 
+- Web Usability - Deutsche Ausgabe (DPI Grafik) (Deutsch) Taschenbuch – 1. September 2006
+  von Jakob Nielsen (Autor), Hoa Loranger (Autor)
+- Global Website : Webdesign im internationalen Umfeld
+
+Tools:
+======
+- https://tools.pingdom.com/
+- https://website.grader.com/
