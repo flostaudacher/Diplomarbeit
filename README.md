@@ -25,8 +25,18 @@ Das Projekt ist eine Analyse von 3 Websiten die Versuchen die regionale Wirtscha
 Dazu führen wir zuerst eine Webanalyse durch. 
 
 Diese erfolgt auf zwei Weisen:
-  - anhand von 7 Kriterien werden die Websiten untersucht
-  - Usablity anhand 10 Heuristicen nach Jakob Nielsen untersuchen
+  - anhand von 7 Kriterien werden die Websiten untersucht:
+    1.Inhalt: Was gibt es hier?
+    2.Gestaltung: Wie sieht es aus?
+    3.Navigation: Wie findet man sich zurecht?
+    4.Performance: Wie schnell wird die Seite geladen?
+    5.Zugänglichkeit: Kann Ihr Browser die Seite darstellen?
+    6.Quelltext: Entspricht der Quelltext modernen Standards?
+    7.Interaktion: Wird die Möglichkeit zur Interaktion adäquat umgesetzt?
+
+Shöpping
+  - Usablity anhand 10 Heuristicen nach Jakob Nielsen untersuchen:
+  
 
 Zudem werden Daten aus diesen Tools herangezogen:
   - pingdom
