@@ -33,7 +33,6 @@ Diese erfolgt auf zwei Weisen:
       - Zugänglichkeit
       - Quelltext
       - Interaktion
-Shöpping
   - Usablity anhand 10 Heuristicen nach Jakob Nielsen untersuchen:
       - Sichtbarkeit des Systemstatus 
       - Übereinstimmung von System und Wirklichkeit
