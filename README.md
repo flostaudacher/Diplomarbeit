@@ -26,7 +26,7 @@ Dazu führen wir zuerst eine Webanalyse durch.
 
 Diese erfolgt auf zwei Weisen:
   - anhand von 7 Kriterien werden die Websiten untersucht:
-    1.Inhalt: Was gibt es hier?
+      -Inhalt
     2.Gestaltung: Wie sieht es aus?
     3.Navigation: Wie findet man sich zurecht?
     4.Performance: Wie schnell wird die Seite geladen?
