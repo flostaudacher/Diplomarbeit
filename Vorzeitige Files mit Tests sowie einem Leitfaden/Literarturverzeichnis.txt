@@ -7,6 +7,8 @@ aktuell Verwendete Websiten:
 - https://www.nngroup.com/articles/ten-usability-heuristics/
 - https://meiert.com/de/publications/articles/20051218/
 - https://www.usabilityblog.de/usability-heuristiken-in-der-praxis-teil1-geben-sie-den-nutzern-feedback-und-zwar-schnell/
+- https://glossar.hs-augsburg.de/Heuristische_Evaluation
+- https://www.uni-regensburg.de/Fakultaeten/phil_Fak_II/Psychologie/Doktoranden/absolventen/eichinger_armin/u-evaluation.html
 
 Bücher:
 =======
@@ -14,6 +16,7 @@ Bücher:
 - Web Usability - Deutsche Ausgabe (DPI Grafik) (Deutsch) Taschenbuch – 1. September 2006
   von Jakob Nielsen (Autor), Hoa Loranger (Autor)
 - Global Website : Webdesign im internationalen Umfeld
+- https://s3.amazonaws.com/uxpin/uxpin_guide_to_usability_testing.pdf Ebook usability testing (Ab Seite 53 wichtig für uns)
 
 Tools:
 ======
